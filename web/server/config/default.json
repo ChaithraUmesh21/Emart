@@ -1,0 +1,5 @@
+{
+    "jwtSecret": "thisismysecret",
+    "mongoURI": "mongodb+srv://chaithra:chaithra@cluster0.7buz4h1.mongodb.net/ecom?retryWrites=true&w=majority&appName=Cluster0"
+  }
+  
